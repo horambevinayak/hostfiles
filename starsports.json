@@ -1,0 +1,20 @@
+{
+  "sports" : [
+    {
+      name: "Star Sport 1 HD",
+      url: "https://www.hotstar.com/in/1260000035"
+    },
+    {
+      name: "Star Sport 2 HD",
+      url: "https://www.hotstar.com/in/1260000033"
+    },
+    {
+      name: "Star Sport Select 1 HD",
+      url: "https://www.hotstar.com/in/1260000034"
+    },
+    {
+      name: "Star Sport Select 2 HD",
+      url: "https://www.hotstar.com/in/1260000024"
+    }
+  ]
+}

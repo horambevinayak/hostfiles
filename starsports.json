@@ -3,7 +3,7 @@
     {
       "title": "Star Sport 1 HD",
       "url": "https://www.hotstar.com/in/1260000035",
-      "img": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7198/597198-h"
+      "img": "https://raw.githubusercontent.com/horambevinayak/hostfiles/main/images/starsport1.png"
     },
     {
       "title": "Star Sport 1 Hindi HD",
@@ -13,7 +13,7 @@
     {
       "title": "Star Sport 2 HD",
       "url": "https://www.hotstar.com/in/1260000033",
-      "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png"
+      "img": "https://raw.githubusercontent.com/horambevinayak/hostfiles/main/images/starsport2.png"
     },
     {
       "title": "Star Sport Select 1 HD",
